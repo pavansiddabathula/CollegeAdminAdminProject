@@ -1,4 +1,5 @@
 College Website Project
+
 This repository contains the source code for a college website designed to streamline user management and enhance accessibility for students, faculty, and administrators.
 
 Features
