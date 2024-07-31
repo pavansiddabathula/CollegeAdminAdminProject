@@ -93,4 +93,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to replace `<repository-url>` with the actual URL of your GitHub repository once you create it. You can also customize the details based on any additional features or configurations specific to your project.
